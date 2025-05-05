@@ -1,0 +1,122 @@
+2. Linear Algebraic Equations
+Gauss Elimination Method
+
+Gauss-Jordan Method
+
+LU Decomposition
+
+Jacobi Iteration
+
+Gauss-Seidel Method
+
+Successive Over-Relaxation (SOR)
+
+3. Interpolation and Extrapolation
+Newton’s Forward and Backward Interpolation
+
+Lagrange Interpolation
+
+Newton’s Divided Difference
+
+Spline Interpolation (Linear, Quadratic, Cubic)
+
+4. Numerical Differentiation and Integration
+Forward and Backward Difference Formulas
+
+Trapezoidal Rule
+
+Simpson’s 1/3 Rule
+
+Simpson’s 3/8 Rule
+
+Romberg Integration
+
+Gaussian Quadrature
+
+5. Ordinary Differential Equations (ODEs)
+Euler’s Method
+
+Modified Euler’s Method (Heun’s)
+
+Runge-Kutta Methods (RK2, RK4)
+
+Predictor-Corrector Methods (e.g., Milne’s, Adams-Bashforth)
+
+6. Partial Differential Equations (PDEs)
+Finite Difference Method (FDM) for:
+
+Laplace Equation
+
+Heat Equation
+
+Wave Equation
+
+Crank-Nicolson Method
+
+Implicit and Explicit Schemes
+
+7. Eigenvalue Problems
+Power Method
+
+Jacobi Method for Eigenvalues
+
+QR Method
+
+8. Optimization Methods
+Gradient Descent
+
+Newton’s Method for Optimization
+
+Lagrange Multipliers
+
+Simplex Method (Linear Programming)
+
+Would you like a categorized PDF-style summary or an interactive simulation in p5.js for any of these methods?  #include <LiquidCrystal.h>
+
+// LCD pin config: RS, E, D4, D5, D6, D7
+LiquidCrystal lcd(8, 9, 4, 5, 6, 7);
+
+float a = 25.0;
+float b = 4.0;
+int maxIterations = 5;
+float x = 0.1;  // Initial guess for 1/B
+int currentIteration = 0;
+unsigned long lastUpdateTime = 0;
+unsigned long updateInterval = 1000; // 1 second per iteration
+
+void setup() {
+  lcd.begin(16, 2);
+  lcd.clear();
+
+  if (b == 0.0) {
+    lcd.print("Div by Zero Err");
+    while (1); // Stop here
+  }
+
+  lcd.setCursor(0, 0);
+  lcd.print("Newton-Raphson");
+  delay(1500);
+  lcd.clear();
+}
+
+void loop() {
+  // Show each iteration every second
+  if (currentIteration < maxIterations && millis() - lastUpdateTime > updateInterval) {
+    lastUpdateTime = millis();
+
+    // Newton-Raphson iteration
+    x = x * (2.0 - b * x);
+    float result = a * x;
+
+    lcd.clear();
+    lcd.setCursor(0, 0);
+    lcd.print("Iter ");
+    lcd.print(currentIteration + 1);
+    lcd.setCursor(0, 1);
+    lcd.print("Ans: ");
+    lcd.print(result, 4); // 4 decimal digits
+
+    currentIteration++;
+  }
+}
+
