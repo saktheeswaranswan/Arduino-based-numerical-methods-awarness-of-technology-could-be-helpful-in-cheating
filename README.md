@@ -192,6 +192,31 @@ Title: How to Make a Calculator Using HTML, CSS, JavaScript - Look Like LCD
 Would you prefer a hardware project, a simulation, or a web-based calculator?
 
 
+If you're looking to create an LCD-style Chinese calculator (like the ones used for basic arithmetic with large segmented digits) and want a YouTube tutorial, here are some links that closely match your request:
 
+Recommended YouTube Videos:
+Basic 7-Segment Display Calculator (with Arduino)
+
+Title: DIY Calculator Using Arduino and 7 Segment Display
+
+Link: https://www.youtube.com/watch?v=EJcREbZKJko
+
+LCD Calculator from Scratch
+
+Title: DIY LCD Calculator using Arduino and Keypad
+
+Link: https://www.youtube.com/watch?v=R0IrSc-mzCc
+
+Chinese-Style Calculator UI Simulation
+
+Title: Creating a Calculator UI like Chinese Portable Calculators (in Python/Tkinter or JavaScript)
+
+These are rare specifically as “Chinese style,” but you might search terms like:
+
+"7 segment calculator simulation" or "LCD calculator UI clone"
+
+If you're referring to simulating this calculator visually in p5.js or JavaScript, let me know and I can provide or write custom code for you.
+
+Would you like a visual p5.js sketch that mimics the LCD calculator display and keys?
 
 
