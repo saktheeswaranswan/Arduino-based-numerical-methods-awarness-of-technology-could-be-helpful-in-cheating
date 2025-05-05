@@ -171,7 +171,25 @@ https://www.youtube.com/watch?v=yBEwvr8qO-8
 https://www.youtube.com/watch?v=Q42-qf9QacY
 
 
+If you're referring to creating a Chinese-style LCD calculator (the kind often seen in markets with large green displays or simple 7-segment LCDs) using code, electronics, or simulation (like Arduino, Python, or p5.js), there are a few good YouTube videos depending on what you want:
 
+Here are a few links based on common approaches:
+
+1. Arduino-Based Chinese LCD Calculator
+YouTube Video: https://www.youtube.com/watch?v=jq2bZ8tDEko
+Title: How to Make Calculator Using Arduino and LCD
+
+2. Making a Calculator With LCD (16x2)
+YouTube Video: https://www.youtube.com/watch?v=yF3gqgYA3so
+Title: DIY Calculator Using Arduino and Keypad With LCD Display
+
+3. p5.js or HTML Simulation of LCD Calculator
+(If you're looking to simulate a "Chinese LCD calculator" style in code, you might not find an exact match, but this one is close.)
+
+YouTube Video: https://www.youtube.com/watch?v=egTMfWz0N2Y
+Title: How to Make a Calculator Using HTML, CSS, JavaScript - Look Like LCD
+
+Would you prefer a hardware project, a simulation, or a web-based calculator?
 
 
 
