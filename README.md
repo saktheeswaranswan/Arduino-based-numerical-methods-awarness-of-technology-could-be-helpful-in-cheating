@@ -43,3 +43,137 @@ This repository does **not promote cheating**. It is created as an **awareness t
 
 ## 🔍 Repository Structure
 
+# 🎥 Video References: Arduino, AI & Embedded Exam Cheating Awareness
+
+> A curated list of real-world demonstrations, tutorials, and awareness content on how embedded systems and AI are being misused in academic exams.
+
+## 🔍 Cheating Techniques Using Embedded Electronics
+
+- 🎬 [How students are cheating in exams using calculators](https://www.youtube.com/watch?v=ZYvxgl-9tNM)
+- 🎬 [Real programmable calculator exam hack](https://www.youtube.com/watch?v=gAqRido1NOI)
+- 📺 [Playlist: Electronics Cheating Tools & Simulations](https://www.youtube.com/watch?v=ZYvxgl-9tNM&list=PLvOlSehNtuHvmK-VGcZ33ZuATmcNB8tvH)
+- 🎬 [Scientific calculator Arduino mimic demo](https://www.youtube.com/watch?v=10D5jpO45Lo)
+- 🎬 [Engineering exam Arduino-based cheats](https://www.youtube.com/watch?v=T9alyB4fznw)
+- 🎬 [ESP32 exam cheating device](https://www.youtube.com/watch?v=ZA5vlDdpbkw)
+- 🎬 [Hidden communication system inside calculator](https://www.youtube.com/watch?app=desktop&v=Ong91Ji3iDk)
+- 🎬 [Microcontroller in calculator case - teardown](https://www.youtube.com/watch?v=B78348fr4Mc)
+- 🎬 [Short: Real cheat device exposed](https://www.youtube.com/shorts/1nVDU0tZOqU)
+
+## 🛠️ DIY Projects & Cheating Device Demos
+
+- 🎬 [Arduino cheat box for students](https://www.youtube.com/watch?v=U2JI582V5xk)
+- 🎬 [Bluetooth + LCD Arduino hidden output](https://www.youtube.com/watch?v=-FU9RH-4bYQ)
+- 🎬 [Embedded exam tricks explained](https://www.youtube.com/watch?v=vN6qcs0_ua8)
+- 🎬 [Casio-style fake calculator LCD](https://www.youtube.com/watch?v=OFiZCKxEuHg)
+- 🎬 [Cheating device teardown and build](https://www.youtube.com/watch?v=fk8GCKO5mw4)
+- 🎬 [Disguised ESP32 communication tool](https://www.youtube.com/watch?v=Ong91Ji3iDk&t=9s)
+- 📺 [Full channel: Sujoy70's academic hacks](https://www.youtube.com/@sujoy70/playlists)
+
+## ⚠️ Ethics, Discussions & Real-Use Consequences
+
+- 🎬 [Engineering ethics violation via tools](https://www.youtube.com/watch?v=iKpNdMDry7k&t=467s)
+- 🎬 [Short: Cheat device demo in pen](https://www.youtube.com/shorts/KNKADOjARy8)
+- 🎬 [Detailed exam leak example](https://www.youtube.com/watch?v=wF0YD5DOr74)
+- 🎬 [Prank and serious cheat device crossovers](https://www.youtube.com/watch?v=JvPQJ9rcHUY)
+- 🎬 [Short: LCD inside pen case](https://www.youtube.com/shorts/E4YxPmHWrXA)
+- 🎬 [Short: Button-cell powered Arduino](https://www.youtube.com/shorts/oTMmaDGKK1o)
+- 🎬 [Full build with code and test](https://www.youtube.com/watch?v=0Mf5rZbrx7k&t=1051s)
+- 🎬 [LLM-based numerical cheating case](https://www.youtube.com/watch?v=yBEwvr8qO-8)
+- 🎬 [Discussion: Replacing exams with projects](https://www.youtube.com/watch?v=Q42-qf9QacY)
+
+
+
+https://www.youtube.com/watch?v=ZYvxgl-9tNM
+
+https://www.youtube.com/watch?v=gAqRido1NOI
+
+
+
+https://www.youtube.com/watch?v=ZYvxgl-9tNM&list=PLvOlSehNtuHvmK-VGcZ33ZuATmcNB8tvH
+
+
+
+https://www.youtube.com/watch?v=10D5jpO45Lo
+
+
+
+https://www.youtube.com/watch?v=T9alyB4fznw
+
+
+
+
+https://www.youtube.com/watch?v=ZA5vlDdpbkw
+
+
+https://www.youtube.com/watch?app=desktop&v=Ong91Ji3iDk
+
+
+https://www.youtube.com/watch?v=B78348fr4Mc
+
+https://www.youtube.com/shorts/1nVDU0tZOqU
+
+
+https://www.youtube.com/shorts/1nVDU0tZOqU
+
+
+
+https://www.youtube.com/watch?v=U2JI582V5xk
+
+
+
+https://www.youtube.com/watch?v=-FU9RH-4bYQ
+
+
+https://www.youtube.com/watch?v=vN6qcs0_ua8
+
+
+
+https://www.youtube.com/watch?v=OFiZCKxEuHg
+
+
+https://www.youtube.com/watch?v=fk8GCKO5mw4
+
+
+
+https://www.youtube.com/watch?v=Ong91Ji3iDk&t=9s
+
+
+https://www.youtube.com/watch?v=iKpNdMDry7k&t=467s
+
+https://www.youtube.com/@sujoy70/playlists
+
+
+
+https://www.youtube.com/shorts/KNKADOjARy8
+
+
+
+https://www.youtube.com/watch?v=wF0YD5DOr74
+
+
+https://www.youtube.com/watch?v=JvPQJ9rcHUY
+
+
+https://www.youtube.com/shorts/E4YxPmHWrXA
+
+
+
+https://www.youtube.com/shorts/oTMmaDGKK1o
+
+
+
+https://www.youtube.com/watch?v=0Mf5rZbrx7k&t=1051s
+
+
+
+https://www.youtube.com/watch?v=yBEwvr8qO-8
+
+https://www.youtube.com/watch?v=Q42-qf9QacY
+
+
+
+
+
+
+
+
